@@ -6,3 +6,6 @@ def func_add3_from_main(x,y,z):
 
 def func_2(x,y,z):
     return (x+y+z) /100
+
+def func_3(a,b):
+    pass
