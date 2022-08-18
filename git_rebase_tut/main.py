@@ -9,3 +9,6 @@ def func_2(x,y,z):
 
 def func_3(a,b):
     pass
+
+def func_4(a,b):
+    pass
